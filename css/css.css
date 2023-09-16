@@ -1,0 +1,10 @@
+h1 {
+    color:blueviolet ;
+}
+header {
+    background-color: aqua;
+}
+body{
+    background-color: chartreuse;
+    list-style-position: inside
+}
